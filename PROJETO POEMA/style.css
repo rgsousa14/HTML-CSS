@@ -19,23 +19,24 @@
     --fonte-poema:'Satisfy', sans-serif;
 }
 
+html, body{
+    min-height: 100vh;
+    background-color: darkgray;
+}
 
 header{
     background-color: black;
     color: white;
     text-align: center; 
-    min-height: 130px;
-    padding-top: 50px;
 }
 
 header > h1{
-    margin-bottom: 10px;
-    font-size: 2em;
-    font-weight: bold;
+    padding-top: 50px;
+    font-variant: small-caps;
 }
 
 header > p{
-    font-size: 1.2em;
+    padding-bottom: 50px;
 }
 
 a{    
@@ -45,13 +46,32 @@ a{
     font-size: 1.1em;
 }
 
-header a:hover{
+a:hover{
     text-decoration: underline;
 }
 
 main{
     font-family: var(--fonte-poema);
     font-size: 1.5em;
+}
+
+section{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
+}
+section.normal{
+    background-color: white;
+}
+
+section.image{
+
+}
+
+section.image p{
+    background-color: rgba(0, 0, 0, 0.267);
+    width: 400px;
 }
 
 footer{
@@ -61,3 +81,4 @@ footer{
     padding: 15px;
     font-size: .9em;
 }
+
