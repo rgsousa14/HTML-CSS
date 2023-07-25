@@ -35,11 +35,7 @@ Onde canta o Sabiá.
 
 ##############################
 Licença imagens:
--Sabiá
-Imagem de <a href="https://pixabay.com/pt/users/radival_oliveira-768566/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=680319">
-Radival Oliveira Radi</a> por <a href="https://pixabay.com/pt//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=680319">Pixabay</a>
-
--Palmeiras1
+-Palmeiras
 Imagem de <a href="https://pixabay.com/pt/users/quangpraha-7201644/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3058728">Quang Nguyen vinh</a> 
 por <a href="https://pixabay.com/pt//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3058728">Pixabay</a>
 
