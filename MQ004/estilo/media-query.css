@@ -43,7 +43,7 @@ Extra large screens, TV – 1201px, and more.
 
 }
 
-@media screen and (min-width: 510px) and (max-width: 768px) { 
+@media screen and (min-width: 481px) and (max-width: 768px) { 
     body{
         background-image: url(../imagens/back-tablet.jpg);
     }
