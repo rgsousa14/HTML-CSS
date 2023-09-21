@@ -43,7 +43,7 @@ Extra large screens, TV – 1201px, and more.
 
 }
 
-@media screen and (min-width: 481px) and (max-width: 868px) { 
+@media screen and (min-width: 481px) and (max-width: 968px) { 
     body{
         background-image: url(../imagens/back-tablet.jpg);
     }
@@ -54,7 +54,7 @@ Extra large screens, TV – 1201px, and more.
     img#tv { display: none;}
 }
 
-@media screen and (min-width: 869px) and (max-width: 1200px) {
+@media screen and (min-width: 969px) and (max-width: 1200px) {
     body{
         background-image: url(../imagens/back-pc.jpg);
     }
