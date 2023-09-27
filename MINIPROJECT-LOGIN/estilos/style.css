@@ -33,4 +33,19 @@ section#login{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    overflow: hidden;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.479);
+}
+
+section#login > div#imagem{
+    background: #5f2c82 url(../imagens/entrada.jpg) no-repeat;
+    height: 200px;
+    background-size: cover;
+    background-position: bottom center;
+    display: block;
+}
+
+section#login > div#form{
+    padding: 10px;
+    display: block;
 }
